@@ -1,0 +1,10 @@
+.Img__Odina {
+    width: 730px;
+}
+.Odina {
+    width: 730px;
+}
+body {
+    display: flex;
+    justify-content: space-between;
+}
